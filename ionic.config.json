@@ -1,0 +1,7 @@
+{
+  "name": "box-react-14",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
